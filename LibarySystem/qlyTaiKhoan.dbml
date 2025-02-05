@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="qlyTaiKhoan" Class="qlyTaiKhoanDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MINH_NHUT;Initial Catalog=qlyTaiKhoan;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="LibarySystem.Properties.Settings" SettingsPropertyName="qlyTaiKhoanConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.list_TaiKhoan" Member="list_TaiKhoans">
+    <Type Name="list_TaiKhoan">
+      <Column Name="ID" Type="System.String" DbType="NChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="UserName" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Password" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

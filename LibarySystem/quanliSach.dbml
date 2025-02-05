@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="qlySach" Class="quanliSachDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MINH_NHUT;Initial Catalog=qlySach;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="LibarySystem.Properties.Settings" SettingsPropertyName="qlySachConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.listBooks" Member="listBooks">
+    <Type Name="listBook">
+      <Column Name="ID" Type="System.String" DbType="NChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NChar(100)" CanBeNull="true" />
+      <Column Name="Author" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Category" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

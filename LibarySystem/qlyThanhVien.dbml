@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="qlyThanhvien" Class="qlyThanhVienDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MINH_NHUT;Initial Catalog=qlyThanhvien;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" SettingsObjectName="LibarySystem.Properties.Settings" SettingsPropertyName="qlyThanhvienConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.listMembers" Member="listMembers">
+    <Type Name="listMember">
+      <Column Name="ID" Type="System.String" DbType="NChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="FirstName" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="BirthDate" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="ContactNumber" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

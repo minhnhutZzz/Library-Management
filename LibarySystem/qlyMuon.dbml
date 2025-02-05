@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="qlyMuon" Class="qlyMuonDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=MINH_NHUT;Initial Catalog=qlyMuon;Integrated Security=True;Encrypt=True;Trust Server Certificate=True" SettingsObjectName="LibarySystem.Properties.Settings" SettingsPropertyName="qlyMuonConnectionString1" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.listMuon" Member="listMuons">
+    <Type Name="listMuon">
+      <Column Name="ID_Person" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="ID_Book" Type="System.String" DbType="NChar(50)" CanBeNull="true" />
+      <Column Name="NgayMuon" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="NgayTra" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="STT" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

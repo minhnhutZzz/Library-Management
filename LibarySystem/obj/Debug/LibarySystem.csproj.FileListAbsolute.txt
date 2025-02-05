@@ -1,0 +1,186 @@
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe.config
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.pdb
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.AssemblyReference.cache
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLogin.resources
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmNewAccount.resources
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.Properties.Resources.resources
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.GenerateResource.cache
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.CoreCompileInputs.cache
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.exe
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.pdb
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagement.resources
+D:\MSC\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmAddBook.resources
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.AssemblyReference.cache
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagement.resources
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmAddBook.resources
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLogin.resources
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmNewAccount.resources
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.GenerateResource.cache
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.pdb
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.Resource1.resources
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe.config
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.pdb
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Minh Nhut\Downloads\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmIssueBook.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe.config
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.pdb
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.AssemblyReference.cache
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmIssueBook.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagement.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmAddBook.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLogin.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmNewAccount.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmSearchBook.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmViewMember.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.Resource1.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.GenerateResource.cache
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.pdb
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmReturn_Book.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagementMember.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\RestSharp.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Buffers.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.CodeDom.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Memory.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Json.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\RestSharp.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Buffers.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.CodeDom.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Memory.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Json.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySy.BF27E0DE.Up2Date
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.ResolveComReference.cache
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\QRCoder.dll
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmMenuLib.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmThongKe.resources
+C:\Users\Minh Nhut\Documents\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmBookReviews.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe.config
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.pdb
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\QRCoder.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\RestSharp.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Buffers.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.CodeDom.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Memory.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Json.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\RestSharp.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Buffers.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.CodeDom.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Memory.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Json.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.AssemblyReference.cache
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.ResolveComReference.cache
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmBookReviews.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmIssueBook.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagement.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmAddBook.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLogin.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmNewAccount.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmReturn_Book.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmSearchBook.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmThongKe.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmViewMember.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagementMember.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmMenuLib.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.Resource1.resources
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.GenerateResource.cache
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySy.BF27E0DE.Up2Date
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Documents\năm 2\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.pdb
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe.config
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\LibarySystem.pdb
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\QRCoder.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\RestSharp.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Buffers.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.CodeDom.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Memory.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Json.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.ValueTuple.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\NuGet.Frameworks.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\RestSharp.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Buffers.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.CodeDom.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Memory.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Text.Json.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\bin\Debug\System.ValueTuple.xml
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.AssemblyReference.cache
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\Interop.WMPLib.dll
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.ResolveComReference.cache
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmBookReviews.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmIssueBook.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagement.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmAddBook.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLogin.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmNewAccount.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmReturn_Book.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmSearchBook.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmThongKe.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmViewMember.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmLibaryManagementMember.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.frmMenuLib.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.Resource1.resources
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.GenerateResource.cache
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySy.BF27E0DE.Up2Date
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.exe
+C:\Users\Minh Nhut\Documents\năm 2_HK1\lập trình hướng đối tượng\Do an cuoi ky OOP\DoAnCuoiKy\LibarySystem\LibarySystem\obj\Debug\LibarySystem.pdb

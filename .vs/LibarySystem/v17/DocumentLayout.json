@@ -1,0 +1,728 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmreturn_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmreturn_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmnewaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmnewaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MINH_NHUT/qlyQuanMuc/True/SqlTable/dbo.list_QuanMuc.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|c:\\users\\minh nhut\\documents\\n\u0103m 2_hk1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\do an cuoi ky oop\\doancuoiky\\libarysystem\\libarysystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmlibarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmlibarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MINH_NHUT/qlySach/True/SqlTable/dbo.listBooks.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\librarian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\libary_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\libary_test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\libarymanagementmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\libarymanagementmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmviewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmviewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmviewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmviewmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\libarymanagementmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\libarymanagementmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmsearchbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmsearchbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmsearchbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmsearchbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmreturn_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmreturn_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmnewaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmnewaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmmenulibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmmenulibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmmenulibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmmenulibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmlibarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmlibarymanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmissuebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmbookreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmbookreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmbookreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmbookreviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MINH_NHUT/qlyTaiKhoan/True/SqlTable/dbo.list_TaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmissuebook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmissuebook.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\qlymuon.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\qlymuon.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\qlymuondataset1muon.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\qlymuondataset1muon.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\frmlibarymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\frmlibarymanagement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\qlyquanmuc.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\qlyquanmuc.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\qlytaikhoan.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\qlytaikhoan.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\quanlisach.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\quanlisach.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\libarysystem\\qlythanhvien.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{25AC8BA8-EB9A-463A-9CDC-8996E711CEDA}|LibarySystem\\LibarySystem.csproj|solutionrelative:libarysystem\\qlythanhvien.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MINH_NHUT/qlyTaiKhoan/True/SqlTable/dbo.listTaiKhoan.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MINH_NHUT/qlyThanhvien/True/SqlTable/dbo.listMembers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MINH_NHUT/qlyQuanMuc/True/SqlTable/dbo.listQuanMuc.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/MINH_NHUT/qlyMuon/True/SqlTable/dbo.listMuon.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmNewAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmNewAccount.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmNewAccount.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmNewAccount.cs [Design]",
+              "RelativeToolTip": "LibarySystem\\frmNewAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:22.713Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLibaryManagement.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLibaryManagement.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmLibaryManagement.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLibaryManagement.cs [Design]",
+              "RelativeToolTip": "LibarySystem\\frmLibaryManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:22.713Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmReturn_Book.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmReturn_Book.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmReturn_Book.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmReturn_Book.cs [Design]",
+              "RelativeToolTip": "LibarySystem\\frmReturn_Book.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:01:44.018Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmAddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmAddBook.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmAddBook.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmAddBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\n\u0103m 2\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmAddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:22.666Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LibaryManagementMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\LibaryManagementMember.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\LibaryManagementMember.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\LibaryManagementMember.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\n\u0103m 2\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\LibaryManagementMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:53:11.328Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLogin.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLogin.cs [Design]",
+              "RelativeToolTip": "LibarySystem\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T03:44:31.363Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.listBooks.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MINH_NHUT/qlySach/True/SqlTable/dbo.listBooks.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MINH_NHUT/qlySach/True/SqlTable/dbo.listBooks.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-16T08:30:28.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.list_QuanMuc.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyQuanMuc/True/SqlTable/dbo.list_QuanMuc.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyQuanMuc/True/SqlTable/dbo.list_QuanMuc.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-23T01:34:49.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "dbo.listMembers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyThanhvien/True/SqlTable/dbo.listMembers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyThanhvien/True/SqlTable/dbo.listMembers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-15T15:55:31.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "dbo.listTaiKhoan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyTaiKhoan/True/SqlTable/dbo.listTaiKhoan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyTaiKhoan/True/SqlTable/dbo.listTaiKhoan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-15T15:43:29.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "dbo.list_TaiKhoan.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyTaiKhoan/True/SqlTable/dbo.list_TaiKhoan.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyTaiKhoan/True/SqlTable/dbo.list_TaiKhoan.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-24T05:09:19.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.listMuon.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyMuon/True/SqlTable/dbo.listMuon.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyMuon/True/SqlTable/dbo.listMuon.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-16T09:51:40.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.listQuanMuc.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyQuanMuc/True/SqlTable/dbo.listQuanMuc.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/MINH_NHUT/qlyQuanMuc/True/SqlTable/dbo.listQuanMuc.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-16T07:37:17.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Date.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\Date.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Date.cs",
+              "RelativeToolTip": "LibarySystem\\Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:23.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Book.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\Book.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Book.cs",
+              "RelativeToolTip": "LibarySystem\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T09:12:16.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Libary_Test.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Libary_Test.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\Libary_Test.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Libary_Test.cs",
+              "RelativeToolTip": "LibarySystem\\Libary_Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:23.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Librarian.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Librarian.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\Librarian.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Librarian.cs",
+              "RelativeToolTip": "LibarySystem\\Librarian.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Member.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\Member.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Member.cs",
+              "RelativeToolTip": "LibarySystem\\Member.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Person.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\Person.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\Person.cs",
+              "RelativeToolTip": "LibarySystem\\Person.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmAddBook.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmAddBook.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmAddBook.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmAddBook.cs",
+              "RelativeToolTip": "LibarySystem\\frmAddBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:05:18.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmViewMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmViewMember.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmViewMember.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmViewMember.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmViewMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:49:22.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmViewMember.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmViewMember.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmViewMember.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmViewMember.cs",
+              "RelativeToolTip": "LibarySystem\\frmViewMember.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADgvx4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T03:51:12.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibaryManagementMember.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\LibaryManagementMember.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\LibaryManagementMember.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\LibaryManagementMember.cs",
+              "RelativeToolTip": "LibarySystem\\LibaryManagementMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:56:01.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmThongKe.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmThongKe.cs",
+              "RelativeToolTip": "LibarySystem\\frmThongKe.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAkwJIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T15:27:36.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmSearchBook.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmSearchBook.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmSearchBook.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmSearchBook.cs",
+              "RelativeToolTip": "LibarySystem\\frmSearchBook.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwD8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T05:45:57.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmThongKe.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmThongKe.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmThongKe.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:18:16.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "frmSearchBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmSearchBook.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmSearchBook.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmSearchBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmSearchBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T08:22:50.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmReturn_Book.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmReturn_Book.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmReturn_Book.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmReturn_Book.cs",
+              "RelativeToolTip": "LibarySystem\\frmReturn_Book.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowCgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:41:58.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmNewAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmNewAccount.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmNewAccount.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmNewAccount.cs",
+              "RelativeToolTip": "LibarySystem\\frmNewAccount.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T07:32:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmMenuLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmMenuLibrary.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmMenuLibrary.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmMenuLibrary.cs",
+              "RelativeToolTip": "LibarySystem\\frmMenuLibrary.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:07:36.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "frmMenuLibrary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmMenuLibrary.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmMenuLibrary.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmMenuLibrary.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmMenuLibrary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:25:32.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLogin.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLogin.cs",
+              "RelativeToolTip": "LibarySystem\\frmLogin.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:06:34.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "frmLibaryManagement.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLibaryManagement.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmLibaryManagement.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLibaryManagement.cs",
+              "RelativeToolTip": "LibarySystem\\frmLibaryManagement.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAA+wMQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:06:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "frmIssueBook.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmIssueBook.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmIssueBook.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmIssueBook.cs",
+              "RelativeToolTip": "LibarySystem\\frmIssueBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAABpAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T04:03:32.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "frmIssueBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmIssueBook.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmIssueBook.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmIssueBook.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmIssueBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T07:43:42.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "frmBookReviews.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmBookReviews.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmBookReviews.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmBookReviews.cs",
+              "RelativeToolTip": "LibarySystem\\frmBookReviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:44:09.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "frmBookReviews.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmBookReviews.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmBookReviews.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmBookReviews.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmBookReviews.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:32:43.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "LibarySystem\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\ClassDiagram1.cd",
+              "RelativeToolTip": "LibarySystem\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-11-10T07:32:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "frmIssueBook.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmIssueBook.Designer.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmIssueBook.Designer.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmIssueBook.Designer.cs",
+              "RelativeToolTip": "LibarySystem\\frmIssueBook.Designer.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAwLMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T02:25:17.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "qlyMuon.dbml",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyMuon.dbml",
+              "RelativeDocumentMoniker": "LibarySystem\\qlyMuon.dbml",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyMuon.dbml",
+              "RelativeToolTip": "LibarySystem\\qlyMuon.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-16T07:50:27.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "qlyMuonDataSet1Muon.xsd",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyMuonDataSet1Muon.xsd",
+              "RelativeDocumentMoniker": "LibarySystem\\qlyMuonDataSet1Muon.xsd",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyMuonDataSet1Muon.xsd",
+              "RelativeToolTip": "LibarySystem\\qlyMuonDataSet1Muon.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-11-24T03:48:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "frmLibaryManagement.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLibaryManagement.Designer.cs",
+              "RelativeDocumentMoniker": "LibarySystem\\frmLibaryManagement.Designer.cs",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\frmLibaryManagement.Designer.cs",
+              "RelativeToolTip": "LibarySystem\\frmLibaryManagement.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T06:01:54.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "qlyQuanMuc.dbml",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyQuanMuc.dbml",
+              "RelativeDocumentMoniker": "LibarySystem\\qlyQuanMuc.dbml",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyQuanMuc.dbml",
+              "RelativeToolTip": "LibarySystem\\qlyQuanMuc.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-23T01:20:26.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "qlyTaiKhoan.dbml",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyTaiKhoan.dbml",
+              "RelativeDocumentMoniker": "LibarySystem\\qlyTaiKhoan.dbml",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyTaiKhoan.dbml",
+              "RelativeToolTip": "LibarySystem\\qlyTaiKhoan.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-22T14:09:01.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "qlyThanhVien.dbml",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyThanhVien.dbml",
+              "RelativeDocumentMoniker": "LibarySystem\\qlyThanhVien.dbml",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\qlyThanhVien.dbml",
+              "RelativeToolTip": "LibarySystem\\qlyThanhVien.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-15T14:46:11.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "quanliSach.dbml",
+              "DocumentMoniker": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\quanliSach.dbml",
+              "RelativeDocumentMoniker": "LibarySystem\\quanliSach.dbml",
+              "ToolTip": "C:\\Users\\Minh Nhut\\Documents\\n\u0103m 2_HK1\\l\u1EADp tr\u00ECnh h\u01B0\u1EDBng \u0111\u1ED1i t\u01B0\u1EE3ng\\Do an cuoi ky OOP\\DoAnCuoiKy\\LibarySystem\\LibarySystem\\quanliSach.dbml",
+              "RelativeToolTip": "LibarySystem\\quanliSach.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-11-10T07:49:59.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
